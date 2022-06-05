@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ishita Mehta
+- 👋 Hi, I’m Ishita 
+- I am 21, currently pursuing Software Engineering
 
 - 📫 How to reach me - drop a mail at ishitamehta028@gmail.com
 
